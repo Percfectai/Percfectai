@@ -9,11 +9,11 @@ Hi, I'm Nick Perciballi, founder of **PercfectAI**, an AI company building creat
 
 | Domain | Registrar | Sedo status | Price |
 |---|---|---|---|
-| percfectai.com | GoDaddy | Pending | $20,000 (placeholder) |
+| percfectai.com | GoDaddy | Pending | $20,000 (placeholder) — Main brand: Sedo Make Offer only, not for auction |
 | percfectsi.com | GoDaddy | Pending | $20,000 (placeholder) |
 | perfectnda.com | GoDaddy | Pending | $20,000 (placeholder) |
 | siagentdj.com | GoDaddy | Pending | $20,000 (placeholder) |
-| sishifts.com | GoDaddy | Pending | $20,000 (placeholder) |
+| sishifts.com | GoDaddy | Pending | $96,000 (auction floor) |
 | aiwatchbot.live | Namecheap (Nickperciballi) | Pending | $20,000 (placeholder) |
 | moviebot.si | Namecheap (Nickperciballi) | Pending | $20,000 (placeholder) |
 | percfectproposal.com | Namecheap (Nickperciballi) | Pending | $20,000 (placeholder) |
